@@ -1,0 +1,108 @@
+
+
+
+body{
+	position: relative;
+	background-color: rgb(179,0,0);
+}
+.nav.nav-item{
+	text-decoration-color: #fff: ;
+}
+nav{
+	background-color: #000;
+
+}
+.pagecontainer{
+	position: relative;
+}
+.navbar .navbar-brand{
+	padding-top: 0;
+}
+.navbar .nav .nav-item{
+	color: rgb(128,0,0);
+}
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: rgb(128,0,0);
+}
+.nav-item .nav-link{
+	color: red;
+	font-weight: 500;
+	font-size: 18px;
+}
+.home{
+	margin-top: 100px;
+}
+.after-nav{
+	padding-top: 100rem;
+}
+.responsive{
+	height: auto;
+	width: 100%;
+}
+.para{
+	padding-left: 2rem;
+	text-decoration: underline;
+	font-weight: 1000;
+	color: #fff;
+
+}
+.inside-content{
+	padding-left: 2rem;
+	marker-start: 2rem;
+	text-indent: 30pt;
+	color: #fff;
+	word-wrap: break-word;
+	max-width: 100%;
+	font-size: 100%;
+	text-align: justify;
+	padding-right: 2rem;
+}
+.carousel {
+	padding-right: 2rem;
+	padding-left: 2rem;
+	width: 100%;
+}
+html{
+	scroll-behavior: smooth;
+}
+.sponsor{
+
+	padding: 2rem;
+}
+.team{
+	padding-left: 2rem;
+	padding-right: 2rem;
+	width: 100%;
+	height: auto;
+}
+.copyright{
+	color: #fff;
+	text-align: center;
+}
+.contact1{
+	padding-left: 2rem;
+}
+
+footer{
+	background-color: #000;
+	clear: both;
+	position: absolute;
+    bottom: 0;
+    width: 100%;
+
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+  height: 5rem;
+  width: 5rem;
+}
